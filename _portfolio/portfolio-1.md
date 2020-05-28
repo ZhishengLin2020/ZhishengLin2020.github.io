@@ -1,5 +1,5 @@
 ---
-title: "Object Manipulation Using YOUBOT in V-rep"
+title: "Object Manipulation Using YOUBOT in V-REP"
 excerpt: "Using the V-REP simulation environment and the modern robotics python library, I was able to implement a PI feedforward controller for a 4 wheel mobile robot with a 5 dof arm to complete an object manipulatin task.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
