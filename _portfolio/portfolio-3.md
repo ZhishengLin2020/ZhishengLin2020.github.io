@@ -4,4 +4,4 @@ excerpt: "This project focus on using the dataset of 2018-2019 NBA Seasons to pr
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In this project, I used the V-REP simulation environment and the modern robotics python library to implement a PI feedforward controller for a 4 wheel mobile robot with a 5 dof arm to complete an object manipulation task. Read more from [here](https://github.com/ZhishengLin2020/me449-robotic-manipulation).
