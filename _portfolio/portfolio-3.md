@@ -1,6 +1,6 @@
 ---
-title: "Object Manipulation Using YOUBOT in V-REP"
-excerpt: "Using the V-REP simulation environment and the modern robotics python library, I was able to implement a PI feedforward controller for a 4 wheel mobile robot with a 5 dof arm to complete an object manipulatin task.<br/><img src='/images/500x300.png'>"
+title: "Machine Learning for NBA Prediction"
+excerpt: "This project focus on using the dataset of 2018-2019 NBA Seasons to predict the results of 2019-2020 NBA Regular Seasons.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
