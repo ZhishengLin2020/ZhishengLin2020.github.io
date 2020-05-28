@@ -4,4 +4,4 @@ excerpt: "This project focus on using the dataset of 2018-2019 NBA Seasons to pr
 collection: portfolio
 ---
 
-In this project, I used the V-REP simulation environment and the modern robotics python library to implement a PI feedforward controller for a 4 wheel mobile robot with a 5 dof arm to complete an object manipulation task. Read more from [here](https://github.com/ZhishengLin2020/me449-robotic-manipulation).
+This is the final project of course EE475: Machine Learning. See final project codes [here](https://github.com/ZhishengLin2020/ee475-machine-learning-faa/tree/master/FinalProject).
