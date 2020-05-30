@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning Foundations from Scratch"
-collection: courses
+collection: teaching
 type: "Graduate Course"
 permalink: /courses/deep-learning
 venue: "University 1, Department"
