@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/machine-learning
 venue: "Northwestern University, Electrical and Computer Engineering"
-date: 2019
+date: 2019-09-01
 # location: "City, Country"
 ---
 

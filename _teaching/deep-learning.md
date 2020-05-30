@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/deep-learning
 venue: "Northwestern University, Electrical and Computer Engineering"
-date: 2020
+date: 2020-02-01
 # location: "City, Country"
 ---
 
