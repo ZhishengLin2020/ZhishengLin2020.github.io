@@ -1,8 +1,8 @@
 ---
 title: "Machine Learning: Foundations, Applications, and Algorithms"
-collection: teaching
+collection: courses
 type: "Graduate course"
-permalink: /teaching/machine-learning
+permalink: /courses/machine-learning
 venue: "Northwestern University, Electrical and Computer Engineering"
 date: 2019-09-01
 # location: "City, Country"
