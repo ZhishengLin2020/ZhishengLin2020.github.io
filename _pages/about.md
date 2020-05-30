@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-======
 
 ## Education
 * M.S. in Mechanical Engineering, Northwestern University, 2019-present
