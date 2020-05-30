@@ -1,9 +1,9 @@
 ---
 title: "Deep Learning Foundations from Scratch"
 collection: teaching
-type: "Graduate Course"
+type: "Graduate course"
 permalink: /courses/deep-learning
-venue: "University 1, Department"
+venue: "Northwestern University, Electrical and Computer Engineering"
 date: 2020
 # location: "City, Country"
 ---
