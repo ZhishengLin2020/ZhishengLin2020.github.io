@@ -1,6 +1,6 @@
 ---
 title: "Statically Indeterminate Leveling Strategy for Vehicle Leveling System"
-excerpt: "This project built a new statically indeterminate leveling strategy for vehicle leveling system.<br/><img src='/images/level_strategy.jpg'>"
+excerpt: "This project built a new statically indeterminate leveling strategy for vehicle leveling system in Matlab Simulink.<br/><img src='/images/level_strategy.jpg'>"
 collection: portfolio
 ---
 # Overview
