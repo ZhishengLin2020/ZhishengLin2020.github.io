@@ -7,9 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+When the machine can touch, see and feel, the world will change!
+
 Updates
 ----------
-* Seeking for 2020 Summer research/project position in Machine/Deep Learning.
+* Seeking for 2020 Summer research/project opportunity in Machine/Deep Learning
 
 Education
 ----------
