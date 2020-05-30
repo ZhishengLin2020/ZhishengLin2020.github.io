@@ -21,4 +21,4 @@ redirect_from:
 * Programming Languages: Python, C/C++, MATLAB/Simulink
 * Libraries: OpenCV
 * Tools: Git, LaTeX
-* Modeling Softwares: UnigraphicsNX, CATIA
+* Mechatronics: UnigraphicsNX, CATIA, Microcomputer
