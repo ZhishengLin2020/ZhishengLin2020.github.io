@@ -18,7 +18,7 @@ redirect_from:
   * Duties included: Screw thread image data processing and analysis using MATLAB
   
 ## Skills
-* Computer Languages: Python, C/C++, MATLAB
+* Programming Languages: Python, C/C++, MATLAB/Simulink
 * Libraries: OpenCV
 * Tools: Git, LaTeX
 * Modeling Softwares: UnigraphicsNX, CATIA
