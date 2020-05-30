@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Curriculum Vitae](https://drive.google.com/file/d/0B7_44zJb43gvVVFsVnItR3dKcUV5ODBmN3dnN2hPSWN2WU5r/view?usp=sharing)
+[Curriculum Vitae](https://drive.google.com/file/d/18TdSbd-W34QbuKATfrrI-q9Or3GZrlOK/view?usp=sharing)
