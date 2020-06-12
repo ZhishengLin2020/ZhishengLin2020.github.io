@@ -7,11 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-When the machine can touch, see and feel, the world will change!
 
 Updates
 ----------
-* Seeking for 2020 Summer research/project opportunity in Machine/Deep Learning
+* Seeking for 2020 Summer research/project opportunity
 
 Education
 ----------
@@ -29,4 +28,4 @@ Skills
 * Programming Languages: Python, C/C++, MATLAB/Simulink
 * Libraries: OpenCV
 * Tools: Git, LaTeX
-* Mechatronics: UnigraphicsNX, CATIA, Microcomputer
+* Mechatronics: UnigraphicsNX, CATIA, Microcomputer, Ansys
