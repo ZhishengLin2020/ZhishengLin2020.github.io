@@ -1,6 +1,6 @@
 ---
 title: "Obtain the Position and Orientation of a TouchBot Relative to a Touch Screen (Ongoing)"
-excerpt: "I am currently finding a mechanism to obtain the position and orientation of a TouchBot relative to a touch screen.<br/><img src='/images/'>"
+excerpt: "I am currently finding a mechanism to obtain the position and orientation of a TouchBot relative to a touch screen.<br/>"
 collection: portfolio
 ---
 
