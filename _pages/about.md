@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Always be curious.
+
 Updates
 ----------
 * Seeking for 2020 Summer research/project opportunity
