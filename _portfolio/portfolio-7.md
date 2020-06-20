@@ -1,6 +1,6 @@
 ---
 title: "Finite Element Analysis of Connecting Rod"
-excerpt: "This project performed FEA for a connecting rod in Ansys Workbench.<br/><img src='/images/connecting_rod.jpg'>"
+excerpt: "This project performed FEA for a connecting rod in Ansys Workbench.<br/><img src='/images/connecting_rod.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 

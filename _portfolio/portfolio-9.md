@@ -1,6 +1,6 @@
 ---
 title: "The Design of Extended-Range Vehicle Power Generation System Based on Gas-Fueled Rotary Engine"
-excerpt: "This research uses the high-performance rotor engine and clean natural gas as the energy source to achieve the highest driving efficiency and the lowest environmental pollution.<br/><img src='/images/extended_range.jpg'>"
+excerpt: "This research uses the high-performance rotor engine and clean natural gas as the energy source to achieve the highest driving efficiency and the lowest environmental pollution.<br/><img src='/images/extended_range.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 

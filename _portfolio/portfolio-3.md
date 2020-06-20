@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning for NBA Prediction"
-excerpt: "This project focus on using the dataset of 2018-2019 NBA Seasons to predict the results of 2019-2020 NBA Regular Seasons.<br/><img src='/images/nba_predication.jpg'>"
+excerpt: "This project focus on using the dataset of 2018-2019 NBA Seasons to predict the results of 2019-2020 NBA Regular Seasons.<br/><img src='/images/nba_predication.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 

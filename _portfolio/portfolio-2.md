@@ -1,6 +1,6 @@
 ---
 title: "Dynamic Simulation of Long Jump"
-excerpt: "This project is a dynamics simulation of a man doing long jump. The simulation is built using Lagriangian Dynamics. <br/><img src='/images/long_jump.gif'>"
+excerpt: "This project is a dynamics simulation of a man doing long jump. The simulation is built using Lagriangian Dynamics. <br/><img src='/images/long_jump.gif' width='500' height='300'>"
 collection: portfolio
 ---
 

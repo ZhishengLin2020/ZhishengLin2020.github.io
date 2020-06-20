@@ -1,6 +1,6 @@
 ---
 title: "The Plug-and-Pull Pulsating Heat Pipe Used for the Radiation of Battery on Vehicles"
-excerpt: "This project developed a new type of automotive battery cooling system to prevent current electric vehicles from overheating and to ensure safe driving.<br/><img src='/images/heat_pipe.png'>"
+excerpt: "This project developed a new type of automotive battery cooling system to prevent current electric vehicles from overheating and to ensure safe driving.<br/><img src='/images/heat_pipe.png' width='500' height='300'>"
 collection: portfolio
 ---
 
