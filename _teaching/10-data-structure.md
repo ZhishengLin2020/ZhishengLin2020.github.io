@@ -72,11 +72,29 @@ Although the binary search is faster than linear search, binary needs to sort th
 
 #### Slow Sort Algorithms
 
+##### Bubble Sort
+
+##### Select Sort
+
+##### Insert Sort
 
 #### Fast Sort Algorithms
 
+##### Quick Sort
+
+##### Stack Sort
+
+##### Merge Sort
 
 #### Other Sort Algorithms
+
+##### Shell Sort
+
+##### Count Sort
+
+##### Bucket Sort
+
+##### Radix Sort
 
 
 
