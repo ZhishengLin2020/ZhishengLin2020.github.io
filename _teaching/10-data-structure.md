@@ -73,6 +73,19 @@ Although the binary search is faster than linear search, binary needs to sort th
 #### Slow Sort Algorithms
 
 ##### Bubble Sort
+- Principle: Compare each 2 adjacent element. If the one in front is larger than the one in behind, swap them. At the end of each loop, the disordered area decreases 1 element and the ordered area increases 1 element.<br/>
+<img src='/images/bubble_sort.gif' width='300' height='500'>
+```python
+def bubble_sort(li):
+	for i in range(len(li)-1): # ith loop
+		exchange = False
+		for j in range(len(li)-i-1):
+			if li[j] > li[j+1]:
+				li[j], li[j+1] = li[j+1], li[j]
+				exchange = True
+		if not exchange:
+			return
+```
 
 ##### Select Sort
 
