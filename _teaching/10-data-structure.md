@@ -10,9 +10,9 @@ date: 2020-06-01
 
 Master some fundamental dynamic data structures, including linear lists, queues, trees, and other linked structures; arrays strings, and hash tables. Storage management. Elementary principles of software engineering. Abstract data types. Algorithms for sorting and searching. Introduction to the Java programming language.
 
-## Algorithms
+## 1. Algorithms
 
-### Basis
+### 1.1 Basis
 
 #### Time Complexity
 - $\mathcal{O}(1)$: Command lines are few
@@ -32,7 +32,8 @@ Master some fundamental dynamic data structures, including linear lists, queues,
 - What is the return value
 - What should be done in each recursion
 
-### Search Algorithms
+### 1.2 Search Algorithms
+
 #### Linear Search
 - Principle: Pick out each element in that list and compare it with the target value. Search from beginning to end.
 ```python
@@ -68,9 +69,9 @@ def binary_search(li, val):
 #### Comparision
 Although the binary search is faster than linear search, binary needs to sort the list at the beginning, which has $\mathcal{O}(n)$ time complexity and make it slower.
 
-### Sort Algorithms
+### 1.3 Sort Algorithms
 
-#### Slow Sort Algorithms
+#### 1.3.1 Slow Sort Algorithms
 
 ##### Bubble Sort
 - Principle: Compare each 2 adjacent element. If the one in front is larger than the one in behind, swap them. At the end of each loop, the disordered area decreases 1 element and the ordered area increases 1 element.<br/>
@@ -86,12 +87,21 @@ def bubble_sort(li):
 		if not exchange:
 			return
 ```
+- Time Complexity: $\mathcal{O}(n^2)$
 
 ##### Select Sort
+- Principle: See list as two area, one is ordered area, the other one is disordered area. Select the first element in disordered area and compare it with other elements in the disordered area. If the smaller element is found, swapping the first element in the disordered area with the smaller element.<br/>\
+```python
+def select_sort(li):
+	
+
+```
+
+
 
 ##### Insert Sort
 
-#### Fast Sort Algorithms
+#### 1.3.2 Fast Sort Algorithms
 
 ##### Quick Sort
 
@@ -99,7 +109,7 @@ def bubble_sort(li):
 
 ##### Merge Sort
 
-#### Other Sort Algorithms
+#### 1.3.3 Other Sort Algorithms
 
 ##### Shell Sort
 
