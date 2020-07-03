@@ -35,6 +35,7 @@ Master some fundamental dynamic data structures, including linear lists, queues,
 ### Search Algorithms
 #### Linear Search
 - Principle: Pick out each element in that list and compare it with the target value. Search from beginning to end.
+<font size=7>
 ```
 def liner_search(li, val):
 	for ind, v in enumerate(li):
@@ -43,6 +44,7 @@ def liner_search(li, val):
 	else:
 		return None
 ```
+</font>
 - Time Complexity: $\mathcal{O}(n)$
 
 #### Binary Search
@@ -67,5 +69,35 @@ def binary_search(li, val):
 
 #### Comparision
 Although the binary search is faster than linear search, binary needs to sort the list at the beginning, which has $\mathcal{O}(n)$ time complexity and make it slower.
+
+### Sort Algorithms
+
+#### Slow Sort Algorithms
+
+
+#### Fast Sort Algorithms
+
+
+#### Other Sort Algorithms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
