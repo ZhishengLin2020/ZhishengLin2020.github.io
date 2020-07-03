@@ -43,6 +43,7 @@ def liner_search(li, val):
 			return ind
 	else:
 		return None
+</font>
 </pre>
 - Time Complexity: $\mathcal{O}(n)$
 
@@ -64,6 +65,7 @@ def binary_search(li, val):
 			left = mid + 1
 	else:
 		return None
+</font>
 </pre>
 - Time Complexity: $\mathcal{O}(\log_2 n)$
 
