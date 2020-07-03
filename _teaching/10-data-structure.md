@@ -35,23 +35,20 @@ Master some fundamental dynamic data structures, including linear lists, queues,
 ### Search Algorithms
 #### Linear Search
 - Principle: Pick out each element in that list and compare it with the target value. Search from beginning to end.
-<pre>
-<font size = 7>
+```python
 def liner_search(li, val):
 	for ind, v in enumerate(li):
 		if v == val:
 			return ind
 	else:
 		return None
-</font>
-</pre>
+```
 - Time Complexity: $\mathcal{O}(n)$
 
 #### Binary Search
 - Principle: First, the list is about to be searched should be a sorthed list. Then, compare the target value with the mid value in the list and narrow the target area down.<br/>
 <img src='/images/linear_search.gif' width='500' height='300'>
-<pre>
-<font size = 7>
+```python
 def binary_search(li, val):
 	left = 0
 	right = len(li)-1
@@ -65,8 +62,7 @@ def binary_search(li, val):
 			left = mid + 1
 	else:
 		return None
-</font>
-</pre>
+```
 - Time Complexity: $\mathcal{O}(\log_2 n)$
 
 #### Comparision
