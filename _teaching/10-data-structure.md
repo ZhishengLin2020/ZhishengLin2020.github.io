@@ -93,11 +93,15 @@ def bubble_sort(li):
 - Principle: See list as two area, one is ordered area, the other one is disordered area. Select the first element in disordered area and compare it with other elements in the disordered area. If the smaller element is found, swapping the first element in the disordered area with the smaller element.<br/>\
 ```python
 def select_sort(li):
-	
-
+	for i in range(len(li)-1):
+		min_loc = i
+	for j in range(i+1, len(li)):
+		if li[j] < li[min_loc]:
+			min_loc = j
+	if min_loc != i:
+		li[i], li[min_loc] = li[min_loc], li[i]
 ```
-
-
+- Time Complexity: $\mathcal{O}(n^2)$
 
 ##### 1.3.1.3 Insert Sort
 
