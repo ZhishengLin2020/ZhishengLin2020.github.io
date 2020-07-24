@@ -10,7 +10,7 @@ date: 2020-06-01
 
 Master some fundamental dynamic data structures, including linear lists, queues, trees, and other linked structures; arrays strings, and hash tables. Storage management. Elementary principles of software engineering. Abstract data types. Algorithms for sorting and searching. Introduction to the Java programming language.
 
-<pre>  
+```python
 def insertLast(self, value: int) -> bool:
 	"""
 	Adds an item at the rear of Deque. Return true if the operation is successful.
@@ -21,7 +21,7 @@ def insertLast(self, value: int) -> bool:
 	self.rear = (self.rear + 1) % self.max_n
 	self.cur_n += 1
 	return True
-</pre>
+```
 
 
 
